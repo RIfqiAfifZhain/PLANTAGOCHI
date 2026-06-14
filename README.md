@@ -158,5 +158,3 @@ Plantagochi beroperasi sebagai **white-label SaaS platform**:
 - Studi Kelayakan: `Laporan_Studi_Kelayakan_Bisnis_Plantagochi.md`
 
 ---
-
-*Technopreneurship — Universitas Pembangunan Nasional Veteran Jakarta, 2026*
