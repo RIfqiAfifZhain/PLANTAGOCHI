@@ -42,8 +42,6 @@ Segmen utama kami adalah mahasiswa (usia 18–25 tahun) yang tinggal di kost ata
 
 **Ownership – Kepemilikan** 
 
-1 
-
 Plantagochi dimiliki dan dioperasikan secara kolektif oleh lima mahasiswa Technopreneurship Universitas Indonesia sebagai co-founder dengan porsi kepemilikan yang setara. 
 
 ## **Expected Returns – Target Capaian** 
@@ -79,8 +77,6 @@ Kami beroperasi di persimpangan tiga pasar yang sedang tumbuh: pasar tanaman hia
 ## **Operational Structure** 
 
 Plantagochi dioperasikan oleh tim multifungsi yang terdiri dari 5 co-founder mahasiswa dengan pembagian peran sebagai berikut: 
-
-2 
 
 |**Nama**|**Peran**|**Tanggung Jawab Utama**|
 |---|---|---|
@@ -122,8 +118,6 @@ Produk Plantagochi terdiri dari dua lapisan yang saling melengkapi:
 
 - Tombol "Sudah Disiram" yang aktif satu kali per minggu sebagai mekanisme selfreport. 
 
-3 
-
 - Streak counter mingguan dengan notifikasi pengingat via email (integrasi EmailJS/Nodemailer). 
 
 - Level-up system: digital twin berubah ilustrasi/animasi setiap 4 minggu streak terjaga. 
@@ -141,7 +135,6 @@ Produk Plantagochi terdiri dari dua lapisan yang saling melengkapi:
 |Komunitas Kampus &<br>BEM|Distribusi & promosi awal|Word-of-mouth & bazaar<br>kampus|
 
 
-
 ## **Pricing – Strategi Harga** 
 
 Plantagochi  menggunakan  struktur  harga  berjenjang  yang  dirancang  untuk  menjangkau berbagai segmen daya beli: 
@@ -153,7 +146,6 @@ Plantagochi  menggunakan  struktur  harga  berjenjang  yang  dirancang  untuk  m
 |Gift Bundle (2–3 pot<br>+ kartu)|Rp 75.000|Rp 25.000|~67%|
 
 
-
 Catatan: Tidak ada biaya berulang (subscription) bagi pelanggan. Akses web app bersifat lifetime  per  unit  yang  dibeli,  menjadikan  value  proposition  kami  sangat  kompetitif dibandingkan aplikasi plant-care berbayar yang ada di pasaran. 
 
 ## **4. MARKET ANALYSIS** 
@@ -161,8 +153,6 @@ Catatan: Tidak ada biaya berulang (subscription) bagi pelanggan. Akses web app b
 ## **Industry Type – Gambaran Industri** 
 
 Plantagochi beroperasi di persimpangan tiga industri yang saling bersinggungan: (1) Industri Tanaman Hias & Hortikultura pasar tanaman hias Indonesia diperkirakan bernilai lebih dari Rp 20 triliun per tahun dengan pertumbuhan konsisten didorong tren urbanisme dan estetika ruang; 
-
-4 
 
 (2) Industri Aplikasi Mobile & Web Gamifikasi pasar aplikasi produktivitas dan edukasi berbasis gamifikasi terus tumbuh seiring penetrasi internet Indonesia yang kini mencapai 78,19% atau sekitar 221 juta pengguna (data APJII 2024); dan (3) Industri Green Lifestyle kesadaran lingkungan generasi Z dan milenial mendorong konsumsi produk dengan nilai keberlanjutan. 
 
@@ -191,8 +181,6 @@ Plantagochi beroperasi di persimpangan tiga industri yang saling bersinggungan: 
 
 **Kompetitor Kelebihan Kekurangan Posisi vs Plantagochi** 
 
-5 
-
 |Toko Tanaman<br>Biasa|Harga murah,<br>variasi banyak|Tidak ada panduan<br>interaktif, pasca-beli<br>putus hubungan.|Plantagochi menambahkan<br>lapisan digital yang<br>menciptakan customer<br>lifetime value.|
 |---|---|---|---|
 |Planta / Greg<br>App|Fitur lengkap,<br>reminder<br>otomatis|Tidak terhubung<br>tanaman fisik,<br>berbayar<br>(subscription).|Plantagochi lebih<br>terjangkau & terintegrasi<br>langsung dengan produk<br>fisik.|
@@ -220,8 +208,6 @@ Plantagochi beroperasi di persimpangan tiga industri yang saling bersinggungan: 
 - • replikasi ide Budaya gifting tanaman semakin populer di kalangan Gen Z • Perubahan tren estetika yang 
 
 - • cepat di kalangan Gen Z Potensi ekspansi ke jenis tanaman lain (sukulen, monstera • Risiko kematian tanaman fisik mini) yang merusak reputasi produk 
-
-6 
 
 - Peluang kemitraan dengan kantin • Fluktuasi harga grosir kaktus dan & koperasi kampus pot 
 
@@ -256,8 +242,6 @@ Infrastruktur teknologi Plantagochi dirancang dengan prinsip "minimum cost, maxi
 - Frontend: HTML5, CSS3, JavaScript — ringan, tanpa framework berat, dapat dihost gratis di Vercel/Netlify. 
 
 - Database MVP: Google Spreadsheet sebagai pseudo-database (gratis, zeroinfrastructure). 
-
-7 
 
 - QR Code Generator: Layanan gratis seperti qr-code-generator.com atau library qrcode.js. 
 
@@ -296,8 +280,6 @@ Tema besar kampanye Plantagochi adalah "Kaktusmu, Karaktermu" — sebuah pesan y
 
 ## **1. Instagram (Visual Branding & Community Building)** 
 
-8 
-
 - Feeds: Foto estetik kaktus sebagai dekorasi meja belajar — target 3 post/minggu. 
 
 - Stories: Interaksi aktif dengan followers, kuis perawatan tanaman, polling nama maskot. 
@@ -334,9 +316,6 @@ Tema besar kampanye Plantagochi adalah "Kaktusmu, Karaktermu" — sebuah pesan y
 |Bulan 6|Gift Season|Kampanye Gift Bundle menjelang wisuda<br>semester. Target: 100 gift bundle terjual.|
 |Bulan 7–12|Scale & Retention|Ekspansi ke kampus lain. Launch fitur Level 2<br>& Achievement Badges. Target: 2.000+ unit|
 
-
-
-9 
 
 ## kumulatif. 
 
@@ -380,9 +359,6 @@ Seluruh proyeksi keuangan berikut didasarkan pada asumsi konservatif yang teruku
 |Pot & Media<br>Tanam (batch<br>pertama)|1|–|200.000|200.000|
 
 
-
-10 
-
 |Cetak Stiker QR<br>Code (100 lembar)|1|–|50.000|50.000|
 |---|---|---|---|---|
 |Kemasan &<br>Packing Material|2|50.000|–|100.000|
@@ -391,7 +367,6 @@ Seluruh proyeksi keuangan berikut didasarkan pada asumsi konservatif yang teruku
 |Pembuatan Konten<br>(equipment foto)|–|–|100.000|100.000|
 |Kas Cadangan<br>(Working Capital)|–|–|450.000|450.000|
 |**TOTAL MODAL**<br>**AWAL**||||**1.500.000**|
-
 
 
 ## **Projected Profit & Loss – Proyeksi Laba Rugi (12 Bulan)** 
@@ -405,9 +380,6 @@ Seluruh proyeksi keuangan berikut didasarkan pada asumsi konservatif yang teruku
 |**Biaya**<br>**Operasio**<br>**nal (Rp)**|800K|600K|600K|700K|700K|700K|800K|800K|900K|900K|1.000<br>K|1.000<br>K|9.500K|
 |**NET**<br>**INCOME**<br>**(Rp)**|**550**<br>**K**|**2.100**<br>**K**|**3.450**<br>**K**|**4.700**<br>**K**|**6.050**<br>**K**|**7.400**<br>**K**|**7.300**<br>**K**|**8.650**<br>**K**|**9.900**<br>**K**|**9.900**<br>**K**|**11.15**<br>**0K**|**12.50**<br>**0K**|**83.650**<br>**K**|
 
-
-
-11 
 
 _*Keterangan: Angka dalam ribuan rupiah (K). Biaya operasional mencakup marketing, kemasan, dan transportasi. Titik Break-Even tercapai di Bulan ke-2 dengan akumulasi keuntungan positif._ 
 
@@ -423,8 +395,6 @@ Plantagochi tidak memerlukan external funding pada fase MVP. Seluruh modal beras
 
 - Ekspansi ke 5 kampus di Jabodetabek. 
 
-12 
-
 ## **APPENDIX** 
 
 ## **Lampiran A – Business Model Canvas (BMC) Plantagochi** 
@@ -434,9 +404,6 @@ Plantagochi tidak memerlukan external funding pada fase MVP. Seluruh modal beras
 |**Key Resources**<br>• Platform website (Vercel/Netlify gratis)<br>• Tim 5 co-founder multifungsi<br>• Stok kaktus & pot<br>• QR Code unik per unit<br>• Akun Instagram & TikTok aktif||**Channels**<br>• Instagram (visual<br>branding)<br>• TikTok (viral<br>reach)<br>• Bazaar kampus<br>• TikTok Shop<br>• Reseller<br>mahasiswa|**Revenue Streams**<br>• Penjualan pot standard (Rp 25.000–30.000)<br>• Upselling pot premium (Rp 40.000–<br>50.000)<br>• Gift Bundle 2–3 pot + kartu (Rp 75.000)<br>• Komisi reseller (margin 10–15%)||
 |**Cost Structure**<br>• HPP kaktus + pot + stiker + kemasan (Rp<br>7.000–8.000/unit)<br>• Biaya pengembangan & hosting web app (Rp 0<br>– free tier)<br>• Biaya marketing & promosi (Rp<br>100K–500K/bulan)<br>• Biaya operasional tim (transportasi,<br>perlengkapan)||**Revenue Streams (Detail)**<br>• Gross Margin rata-rata: 65–70% per unit<br>• Break-even point: 80 unit terjual (~Bulan ke-2)<br>• Proyeksi pendapatan tahun 1: Rp 80.000.000–120.750.000|||
 
-
-
-13 
 
 **Lampiran B – Minimum Viable Product (MVP) Specification** 
 
@@ -449,9 +416,6 @@ Plantagochi tidak memerlukan external funding pada fase MVP. Seluruh modal beras
 |Mekanisme Feedback|Google Form dikirim via email<br>setelah 4 minggu pemakaian.|Response rate<br>50% dari<br>≥<br>pembeli.|
 
 
-
-14 
-
 **Lampiran C – Risk Analysis & Mitigasi** 
 
 |**Risiko**|**Deskripsi**|**Level**|**Mitigasi**|
@@ -460,9 +424,4 @@ Plantagochi tidak memerlukan external funding pada fase MVP. Seluruh modal beras
 |Teknologi (web<br>down)|Server Vercel/Netlify<br>mengalami downtime.|**Low**|Backup di platform lain<br>(GitHub Pages). Pilih free<br>tier yang memiliki uptime<br>99.9%.|
 |Kompetisi<br>(imitasi)|Kompetitor mudah<br>meniru konsep QR Code<br>+ tanaman.|**Medium**|Kecepatan eksekusi &<br>brand community adalah<br>moat utama. Bangun<br>loyalitas sebelum<br>kompetitor sadar.|
 |Permintaan<br>(rendah)|Target penjualan tidak<br>tercapai di bulan awal.|**Low–Med**|Diversifikasi kanal<br>penjualan. Pivot ke model<br>gifting jika direct sales<br>lambat.|
-|Operasional<br>(tim)|Beban akademik anggota<br>tim mengganggu<br>operasional.|**Medium**|Jadwal rotasi kerja.<br>Rekrut 1–2<br>volunteer/intern dari<br>kampus untuk membantu<br>produksi.|
-
-
-
-15 
-
+|Operasional<br>(tim)|Beban akademik anggota<br>tim mengganggu<br>operasional.|**Medium**|Jadwal rotasi kerja.<br>Rekrut 1–2<br>volunteer/intern dari<br>kampus untuk membantu<br>produksi.|mars
