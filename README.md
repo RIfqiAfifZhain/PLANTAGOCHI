@@ -160,5 +160,3 @@ Plantagochi beroperasi sebagai **white-label SaaS platform**:
 
 - Business Plan: `BUSINESS PLAN PLANTAGOCHI.md`
 - Studi Kelayakan: `Laporan_Studi_Kelayakan_Bisnis_Plantagochi.md`
-
----
