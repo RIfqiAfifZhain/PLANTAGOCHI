@@ -57,7 +57,7 @@ export default function Footer() {
 
         <div className="footer__bottom">
           <p className="footer__copyright">
-            &copy; {new Date().getFullYear()} Plantagochi. Dibuat dengan <Leaf size={14} className="footer__leaf" /> oleh Tim Technopreneurship UI.
+            &copy; {new Date().getFullYear()} Plantagochi. <Leaf size={14} className="footer__leaf" />
           </p>
           <div className="footer__legal">
             <a href="#">Kebijakan Privasi</a>
