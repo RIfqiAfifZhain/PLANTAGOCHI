@@ -262,7 +262,7 @@ Infrastruktur teknologi Plantagochi dirancang dengan prinsip "minimum cost, maxi
 
 ## **Key Customers – Pelanggan Kunci** 
 
-Pada fase MVP, pelanggan kunci Plantagochi adalah mahasiswa aktif Universitas Indonesia dan komunitas kampus (BEM, Himpunan, UKM) yang dapat berperan sebagai channel distribusi awal. Kemitraan dengan koperasi mahasiswa atau toko buku kampus juga akan dieksplorasi sebagai reseller pertama Plantagochi. 
+Pada fase MVP, pelanggan kunci Plantagochi adalah mahasiswa aktif Universitas Pembangunan Nasional Veteran Jakarta dan komunitas kampus (BEM, Himpunan, UKM) yang dapat berperan sebagai channel distribusi awal. Kemitraan dengan koperasi mahasiswa atau toko buku kampus juga akan dieksplorasi sebagai reseller pertama Plantagochi. 
 
 ## **6. MARKETING AND SALES PLAN** 
 
