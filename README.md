@@ -109,7 +109,11 @@ PLANTAGOCHI/
 ### 1. Clone Repository
 
 ```bash
+<<<<<<< Updated upstream
 git clone <repo-url>
+=======
+git clone <repo url>
+>>>>>>> Stashed changes
 cd PLANTAGOCHI
 ```
 
